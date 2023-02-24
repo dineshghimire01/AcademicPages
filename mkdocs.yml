@@ -2,7 +2,7 @@
 site_name: "Dinesh Ghimire's Website"
 site_description: 'This website is rendered in MkDocs and hosted on GitHub pages'
 site_author: 'Dinesh Ghimire'
-site_url: https://dineshghimire.github.io/Academicpages
+site_url: https://github.com/dineshghimire01/AcademicPages
 
 # Repository
 repo_name: AcademicPages-mkdocs
